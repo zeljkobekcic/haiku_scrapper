@@ -1,7 +1,7 @@
 # Haiku Scrapper
 
 This simple script downloads and parses haikus from
-[haikus.somebullshit.net/haikus](haikus.somebullshit.net/haikus). There was no
+[haiku.somebullshit.net](http://haiku.somebullshit.net). There was no
 "proper" dataset containing haikus. Then I looked for websites which provide a
 *high* number of haikus. That site has a little less than 350.000 haikus, which
 should be more than enough.
