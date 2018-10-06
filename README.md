@@ -1,10 +1,10 @@
 # Haiku Scrapper
 
 This simple script downloads and parses haikus from
-[haikus.somebullshit.net/haikus](). There was no "proper" dataset
-containing haikus. Then I looked for websites which provide a *high* number of
-haikus. That site has a little less than 350.000 haikus, which should be more
-than enough.
+[haikus.somebullshit.net/haikus](haikus.somebullshit.net/haikus). There was no
+"proper" dataset containing haikus. Then I looked for websites which provide a
+*high* number of haikus. That site has a little less than 350.000 haikus, which
+should be more than enough.
 
 The intention for this project was to collect a dataset to train a neural
 network to generate poems. It turns out, that the
